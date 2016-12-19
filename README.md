@@ -1,0 +1,2 @@
+# sampsite
+site server samp
